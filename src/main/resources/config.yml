@@ -1,0 +1,3 @@
+custom-sound: 'oraxen:custom_sound'
+join-message: '&6&l%player% &r&7joined the server!'
+quit-message: '&6&l%player% &r&left the server!'
